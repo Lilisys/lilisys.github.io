@@ -2,45 +2,40 @@
 <html>
   {% include head.html %}
   <body class="no-trans">
-    <div id="fb-root"></div>    
-    <script>(function(d, s, id) {   
-      var js, fjs = d.getElementsByTagName(s)[0];   
-      if (d.getElementById(id)) return;   
-      js = d.createElement(s); js.id = id;    
-      js.src = "//connect.facebook.net/el_GR/sdk.js#xfbml=1&version=v2.0";    
-      fjs.parentNode.insertBefore(js, fjs);   
-    }(document, 'script', 'facebook-jssdk'));</script>
-    <!-- scrollToTop -->
-    <!-- ================ -->
-    <div class="scrollToTop"><i class="icon-up-open-big"></i></div>
+
+
 
 
 
     {% include nav.html %}
-    <!-- banner start -->
+
+
+
+<!-- section start -->
     <!-- ================ -->
-    <div id="banner" class="banner">
-      <div class="banner-image"></div>
-      <div class="banner-caption">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-8 col-md-offset-2 object-non-visible" data-animation-effect="fadeIn">
-              <h1 class="text-center">Live to be <span>Inspired</span></h1>
-              <p class="lead text-center"> "For I know the plans I have for you,” declares the <span>LORD</span>, “plans to prosper you and not to harm you, plans to give you hope and a future."</p>
-              <h4 class="text-center"> <span>Jeremiah 29:11</span></h4>
-              
+    <div class="section clearfix object-non-visible" data-animation-effect="fadeIn">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h1 id="about" class="title text-center">About <span>Me</span></h1>
+            <p class="lead text-center">Artist. Programmer. Follower of Christ.</p>
+            <div class="space"></div>
+            <div class="row">
+              <div class="col-md-6">
+                <img src="images/ProfPic.jpg" alt="">
+                <div class="space"></div>
+              </div>
+              <div class="col-md-6">
+                {{ content }}
+              </div>
             </div>
+            <div class="space"></div>
+            
           </div>
         </div>
       </div>
     </div>
-    <!-- banner end -->
-
-
-    
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
+    <!-- section end -->
 
     <div class="wrapper-footer">
       <div class="container">
