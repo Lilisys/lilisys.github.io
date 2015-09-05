@@ -494,6 +494,7 @@ nav ul ul {
 
 nav ul li:hover > ul {
 	display: block;
+	list-style-type: none;
 }
 
 @media (min-width:768px) {
