@@ -4,6 +4,52 @@ title: Live Blog
 ---
 
 <h1 align="center">{{ page.title }}</h1>
+<h1 id="live" class="title text-center">Live</h1>
+        <p align = "center"> Eventually, a blog spanning four categories.</p>
+        {{content}}
+        <div class="space"></div>
+        <div class="row">
+          <div class="col-md-3">
+            <div class="media testimonial">
+              <div class="media-body">
+                <h3 class="media-heading"><span>Bravely<span></h3>
+                <blockquote>
+                  <p>A section focused on teaching. I'll be giving tutorials on various subjects, ranging from knitting to sketching to coding to stretching.</p>
+                </blockquote>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="media testimonial">
+              <div class="media-body">
+                <h3 class="media-heading"><span>Humbly</span></h3>
+                <blockquote>
+                  <p>Living and actively learning lessons from the Word. A place where I write about they ways God is growing me.</p>
+                </blockquote>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="media testimonial">
+              <div class="media-body">
+                <h3 class="media-heading"><span>Vicariously</span></h3>
+                <blockquote>
+                  <p>I love to travel and take pictures. A section where you can read about my adventures and be jealous.</p>
+                </blockquote>
+              </div>
+            </div>
+          </div>  
+          <div class="col-md-3">
+            <div class="media testimonial">
+              <div class="media-body">
+                <h3 class="media-heading"><span>Spontaneously</span></h3>
+                <blockquote>
+                  <p>A place where I can verbalize notions of both the world around me and the one in my head.</p>
+                </blockquote>
+              </div>
+            </div>
+          </div>
+        </div>
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
