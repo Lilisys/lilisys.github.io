@@ -7,7 +7,7 @@ title: Live
 {% for post in paginator.posts %}
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <p class="author">
-    <span class="date">{{ page.date | date: '%B %d, %Y' }}</span>
+    <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
   </p>
   <div class="content">
     {{ post.content }}
