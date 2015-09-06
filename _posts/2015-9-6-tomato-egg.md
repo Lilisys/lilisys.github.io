@@ -11,6 +11,8 @@ tags:
 Last time I was in Japan, I lived with a host family that cooked all my meals for me. This time around, I'm living in a co-op style dorm with 5 other ladies, meaning I need to cook for myself. I've lived in an apartment on campus for the past two years and during that time I've practiced making food that takes a little bit of skill/effort (at least more than pasta) but isn't too hard to throw together (in my opinion). One of these things is 番茄炒蛋 (fan qie chao dan, meaning tomato stir-fry eggs), since it's delicious and the ingredients aren't too hard to obtain. If you are from a different Chinese speaking region you might call it something else, but that's what I call it. Anyway here's what you need:
 
 Ingredients:
+
+
 - 1 (roughly) fist-sized tomato
 - 3 eggs
 - 1 sprig of green onion
@@ -19,6 +21,8 @@ Ingredients:
 - salt to taste
 
 Tools:
+
+
 - wok or large frying pan
 - a utensil of your choice to go with that (I use chopsticks)
 - a sharp knife
