@@ -3,7 +3,7 @@ layout: default
 subtitle: blog archive
 ---
 
-<ul list-style-type="none">
+<ul style="list-style: none;">
   {% for post in site.posts %}
   <li><i class="fa fa-star pr-10 text-colored"></i><a href="{{ post.url }}">{{ post.title }}</a>,  {{ post.date | date_to_long_string}}</li>
   {% endfor %}
