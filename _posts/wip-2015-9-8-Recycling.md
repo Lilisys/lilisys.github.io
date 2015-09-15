@@ -1,3 +1,13 @@
 The garbage and recycling system here is intense.
 
 When we first got here, the landlady explained the system to us. There are separate bins for all the things you can recycle - paper packaging, PET bottles, cans, plastic packaging. But there are also bins for burnable waste, non-burnable waste, and magazines/newspapers. You take specific items out onto the street corner a few days a week, and on the second Tuedsay of each month (today) you take out all the recycling to this designated spot. 
+
+
+![Recycle stations](https://lh3.googleusercontent.com/mc02FSD0MwVi0CtKFk1cHOApPCb-sGcIDPHhlEU8ValucT-IUp5rY_JzO6J0TS_u4oFroSZSSOKId62ZFLpJKucThF6m4CjTwAhTBeLNAQ5d1PIDiFF38V5LF8H-UrfRb1h4re2OKEuPfbFf_lvtAfYLbJNmsDUTZUpnjKPpX4wz8di9l46apNl_VI0wgMiki3POT8NJYr0M0lCCtJjaGq8kMxPI0zbR0MX1etShPsl03Kl1nFsTUCZfAswP8HBibx1m53-38SS_r5fHJVnJSiBqfmAF47FP1pdL_fZ6BwBXwPTcad4PMBrumpkBRkbyE5NICa8JhZhfjGz6bRybjdCuM6wrK427U67N2VJyyeNcPbF1Kh2tZgep9hX6slZsEF7_ZZcosAZ0eIAXNxUtmoQAD-h0_b4zxHE9BfETTogOGzjUOG7HhdLBWpx2y1rH3XFj4H7WPjLN_e0HwAbOtFSk9pJ9NjNx3IbpqiK23jS5LvU8J-vMLpFtbfFj6i2H91nhm28E50UNRQWh-jrU3J7mW_TYMLebpHHcPAaePpDq=w1580-h893-no)
+
+It's kind of confusing, but the nice this that everything is labeled clearly. On any piece of packaging, there will be a little symbol that tels you if it's paper, plastic, aluminum, etc and what parts of each package go where. For example, on a yogurt container, the lid and label are paper while the cup itself is plastic. 
+
+So while it's a pain to have to take apart and clean every piece of packaging I consume, I'm really glad that Japan takes sustainability so seriously. The citizens really care about the environment, and the extra effort on our part will make a difference in the long run.
+
+Typhoons
+last week, typhoon Etau paid us a visit. Although it was mostly heavy rain, the landlady still told us to take precautions. At our house, each window is equipped with these intense metal storm shutters. I had no idea they existed but what do you know! The just slid out in front of the sliding doors. I pulled them out before going to bed. Also, the school had warned us that there was a possiblity classes (well orientation for us) would be canceled so we should check the website in the morning (reminicing about snow days). Well sure enough, classes were canceled (pushed back a few hours actually) due to a typhoon warning in the area. However, the typhoon was pretty ncie to our area of Nagoya. The previous night I had heard the strong wind and rain against the storm shutters, but that morning it was just cloudy and damp out. It didn't really pick up at all, so I just went shopping for rainboots (almost typed rainbows there). 
