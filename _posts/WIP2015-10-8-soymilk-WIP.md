@@ -15,31 +15,27 @@ Additionally, flavors are also ranked a bit by how they varied from my expectati
 
 Here's what I have so far. I'll keep updating this as I find more flavors to try. 
 
-| Flavor                | Score         | Comments  |
-| :-------------        |:-------------:| -----:|
-| 普通                  |  9 | asdf | 
-| バナナ                |7 | | 
-| ごま                  | 4 |||
-|あづき                 |6||
-|チーズケーキ           |2||
-| アボカド (Avocado)    | right-aligned | $1600 |
-|ココア                 | 8 ||
-|麦芽                   |8 ||
-|抹茶                   |9||
-|紅茶                   | 9||
-|焼き芋                 |7||
-|無調整                 | 1||
-|マロン |9||
-|フルーツミックス |4||
-|梅 |6||
-|いちご |5||
-|ジンジャーエール |6||
-|麦芽コーヒー |9||
-|白桃| 10||
-|麦芽 |9||
+| Flavor                            | Score         | Comments  |
+| :-------------------------------- |:-------------:| --------- |
+| 普通  (Plain)                     | 9 |  | 
+| バナナ (Banana)                   | 7 | | 
+| ごま (Black Sesame)               | 4 |I thought this was going to be good, but then it wasn't, which surprised me since black sesame usually tastes pretty good.|
+|あづき (Red Bean)                  | 6 ||
+|チーズケーキ (Cheesecake)          | 2 |I knew this was going to be a weird flavor going in. It had a lot of potential since they could make it creamy and whatnot, but it just ended up being super sour. I drank a few sips then dumped the rest. |
+| アボカド (Avocado)                | 9 |Now this flavor was quite the dark horse. I thought it would be awful going in, but it's surprisingly delicious. The avocado flavor is very light and the drink is just sweet and creamy. I buy this pretty much every time I see it at the store. |
+|ココア  (Cocoa)                    | 8 ||
+|麦芽 (Malt)                        | 8 ||
+|抹茶 (Matcha)                      | 9 | |
+|紅茶 (Koucha)                      | 9 ||
+|焼き芋  (Sweet Potato)             | 7 ||
+|無調整  (Sugar Free)               | 1 |Yeah I thought you couldn't really go wrong with plain, but this was God awful. Even worse than cheesecake, which is hard to believe. This doesn't even taste like tofu, I really have no idea how I got through the big carton of this.|
+|マロン  (Chestnut)                 | 9 ||
+|フルーツミックス (Fruits Mix)      | 4 |I thought this was going to be sweet and fruity, but it was mostly just sour. Would not recommend.|
+|梅  (Plum)                         | 6 |On the other hand, I thought this was going to be sour and gross but it was actually decent. |
+|いちご  (Strawberry)               | 5 |I figured you coudln't go wrong with strawberry but nope. This wasn't your generic strawberry milk flavor, but rather that plus a bunch of sourness.|
+|ジンジャーエール (Ginger Ale)      | 6 |Thought it was going to be terrible, but it wasn't. It was more sour than I'd prefer, but not so much that I regretted everything upon consumption|
+|麦芽コーヒー (Malt + Coffee)       | 9 ||
+|白桃 (Peach)                       | 10|Peach. |
 
 
 
-**アボカド (Avocado)**
-- Score: 9
-- Comments: 
