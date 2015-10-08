@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Definitive Ranking of Soy Milk Flavors
-category: Vicariously
+category: Spontaneously
 tags:
 - NagoyaF15
 - food
