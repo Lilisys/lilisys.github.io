@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bathroom Efficiency
-category: 
+category: Spontaneously
 tags:
 - NagoyaF15
 - travel
