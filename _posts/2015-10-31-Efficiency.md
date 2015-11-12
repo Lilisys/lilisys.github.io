@@ -4,8 +4,6 @@ title: Bathroom Efficiency
 category: Spontaneously
 tags:
 - NagoyaF15
-- travel
-- festival
 ---
 
 It's always the little things that make something really great, and for Japan that's efficiency in every aspect of daily life. Something I've noticed here which is vastly different from the us is that the japanese pay attention to details, and optimize different aspects of life. The main one I notice is the bathrooms at school.
