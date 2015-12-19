@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Reflecting on Nanzan Study Abroad Experience
 category: Humbly
 tags:
 - NagoyaF15
