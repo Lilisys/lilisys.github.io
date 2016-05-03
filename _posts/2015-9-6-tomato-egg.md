@@ -37,13 +37,16 @@ Process:
 6. Move the tomatos to a bowl or plate and then *clean the frying pan*. Cooking the eggs and tomatoes separately is the trick to making delicious 番茄炒蛋. When the pan is clean, add 2 T of oil to it and heat it up on a medium heat. Then pour the eggs in and scramble them on a lower heat. I tend to let them puff up and drag my chopsticks through it while it's runny and let it slowly harden. When the eggs are mostly done, add the tomatoes back in and stir everything around. I prefer my eggs a bit yolky, so I consider 80% cooked done but feel free to cook it all the way if you wish. 
 7. Serve it on a plate or bowl (or whatever else you prefer). You can feed 1-2 people with this. 
 
-So yeah! The one I made the other day is on the bottom left. Hope you learned something! ![番茄炒蛋](https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/s640x640/sh0.08/e35/c0.0.1080.1080/11856861_434322040108555_77401496_n.jpg)
+So yeah! The one I made the other day is on the bottom left. Hope you learned something!
+<div class="col-sm-12 col-md-12">
+![番茄炒蛋](https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/s640x640/sh0.08/e35/c0.0.1080.1080/11856861_434322040108555_77401496_n.jpg)
+</div>
 
 *EDIT: I made this again the other day and here are some pictures:*
-![Eggs 1]({{ site.baseurl }}/images/IMAG7342.jpg)
-![Eggs 2]({{ site.baseurl }}/images/IMAG7343.jpg)
-![Eggs 3]({{ site.baseurl }}/images/IMAG7344.jpg)
-![Eggs 4]({{ site.baseurl }}/images/IMAG7345.jpg)
-![Eggs 5]({{ site.baseurl }}/images/IMAG7346.jpg)
-![Eggs 6]({{ site.baseurl }}/images/IMAG7347.jpg)
-![Eggs 7]({{ site.baseurl }}/images/IMAG7348.jpg)
+![Eggs 1]({{ site.baseurl }}/nagoya/images/IMAG7342.jpg)
+![Eggs 2]({{ site.baseurl }}/nagoya/images/IMAG7343.jpg)
+![Eggs 3]({{ site.baseurl }}/nagoya/images/IMAG7344.jpg)
+![Eggs 4]({{ site.baseurl }}/nagoya/images/IMAG7345.jpg)
+![Eggs 5]({{ site.baseurl }}/nagoya/images/IMAG7346.jpg)
+![Eggs 6]({{ site.baseurl }}/nagoya/images/IMAG7347.jpg)
+![Eggs 7]({{ site.baseurl }}/nagoya/images/IMAG7348.jpg)
