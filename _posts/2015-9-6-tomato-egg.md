@@ -43,10 +43,10 @@ So yeah! The one I made the other day is on the bottom left. Hope you learned so
 </div>
 
 *EDIT: I made this again the other day and here are some pictures:*
-![Eggs 1]({{ site.baseurl }}/nagoya/images/IMAG7342.jpg)
-![Eggs 2]({{ site.baseurl }}/nagoya/images/IMAG7343.jpg)
-![Eggs 3]({{ site.baseurl }}/nagoya/images/IMAG7344.jpg)
-![Eggs 4]({{ site.baseurl }}/nagoya/images/IMAG7345.jpg)
-![Eggs 5]({{ site.baseurl }}/nagoya/images/IMAG7346.jpg)
-![Eggs 6]({{ site.baseurl }}/nagoya/images/IMAG7347.jpg)
-![Eggs 7]({{ site.baseurl }}/nagoya/images/IMAG7348.jpg)
+![Eggs 1]({{ site.baseurl }}/images/nagoya/IMAG7342.jpg)
+![Eggs 2]({{ site.baseurl }}/images/nagoya/IMAG7343.jpg)
+![Eggs 3]({{ site.baseurl }}/images/nagoya/IMAG7344.jpg)
+![Eggs 4]({{ site.baseurl }}/images/nagoya/IMAG7345.jpg)
+![Eggs 5]({{ site.baseurl }}/images/nagoya/IMAG7346.jpg)
+![Eggs 6]({{ site.baseurl }}/images/nagoya/IMAG7347.jpg)
+![Eggs 7]({{ site.baseurl }}/images/nagoya/IMAG7348.jpg)
