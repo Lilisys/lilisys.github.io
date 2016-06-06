@@ -11,18 +11,19 @@ tags:
 
 It's been a while since I last posted! I haven't really posted a tutorial yet, so today's post will be just that - a how-to on my method of doodling stars! Five-pointed stars are my aesthetic, so several years ago I doodled them all over my (and my friends') arms and got pretty decent at it. They look something like this:
 
-<div class="col-sm-12 col-md-12">
-![Complete]({{ site.baseurl }}/images/starTut/pattern4.jpg)
-</div>
+![Pattern 4]({{ site.baseurl }}/images/starTut/pattern4.jpg)
+
 
 You can draw them in a block, in a swirl, on a card, etc. So here we go!
 
 You will need:
+
 - a writing utensil (I recommend pen)
 - something to write on (Paper is a good choice, I sometimes use my hand but I'm not going to endorse that)
 
 Process:
 The first 7 steps go over drawing an outline star. This pattern is composed of hollow stars and filled stars in varying sizes.
+
 1. Start with a little caret (this thing ^)
 ![Step 1]({{ site.baseurl }}/images/starTut/step1.jpg)
 2. Draw horizontal lines to the right and left of the caret, making sure to angle them slightly downwards
