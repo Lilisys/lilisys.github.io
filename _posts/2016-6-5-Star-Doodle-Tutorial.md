@@ -15,8 +15,6 @@ It's been a while since I last posted! I haven't really posted a tutorial yet, s
 ![Complete]({{ site.baseurl }}/images/starTut/pattern4.jpg)
 </div>
 
-![Eggs 2]({{ site.baseurl }}/images/nagoya/IMAG7343.jpg)
-
 You can draw them in a block, in a swirl, on a card, etc. So here we go!
 
 You will need:
@@ -41,5 +39,24 @@ The first 7 steps go over drawing an outline star. This pattern is composed of h
 ![Step 7]({{ site.baseurl }}/images/starTut/step7.jpg)
 
 A filled star is much easier to draw. To make one, just draw your standard 5 cornered star and fill it in. During the fill-in step, you can fix any short sides or weird angles! I did in my example:
+<div class="row">
+  <div class="col-sm-12 col-md-6">
+    ![Fill 1]({{ site.baseurl }}/images/starTut/fill1.jpg)
+  </div>
+  <div class="col-sm-12 col-md-6">
+    ![Fill 2]({{ site.baseurl }}/images/starTut/fill2.jpg)
+  </div>
+</div>
 
-The next steps describe pattern construction. The basic idea is to start with a large hollow star, add a small filled star to the side, then add in a medium sized star of either filling somewhat between them. From there, continue drawing stars of varying size, alternating the filling and making sure that adjacent stars of the same size have opposite filling. It sounds very complicated in words, but this is what it looks like in pictures:
+The next steps describe pattern construction. The basic idea is to:
+1. start with a large hollow star, add a small filled star to the side
+![Pattern 1]({{ site.baseurl }}/images/starTut/pattern1.jpg)
+2. then add in a medium sized star of either filling somewhat between them. 
+![Pattern 2]({{ site.baseurl }}/images/starTut/pattern2.jpg)
+3. From there, continue drawing stars of varying size, alternating the filling and making sure that adjacent stars of the same size have opposite filling. 
+![Pattern 3]({{ site.baseurl }}/images/starTut/pattern3.jpg)
+
+This is what it might look like:
+![Pattern 4]({{ site.baseurl }}/images/starTut/pattern4.jpg)
+
+So hopefully this was easy to follow and you learned something. Feel free to contact me if you want to give any feedback or if you wanna show me what you drew!
