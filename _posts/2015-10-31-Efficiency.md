@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bathroom Efficiency
-category: Spontaneously
+category: Vicariously
 tags:
 - NagoyaF15
 ---
