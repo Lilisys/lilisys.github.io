@@ -1,0 +1,22 @@
+---
+layout: post
+title: Inktober 2016 Reflection
+category: Humbly
+tags:
+- reflection
+- inktober
+---
+Wow has it been a while since I last wrote a post. Aside from being lazy and neglectful, the main reason I haven't been writing is because I've wanted to focus on other projects, especially art-related ones. The huge project I undertook was Inktober last month. For those of you who don't know what Inktober is, it's a challenge focused on inspiring artists to draw with Ink every day during the month of October, with the focus of improving inking skills as well as building good drawing habits (You can read more about it here: [Inktober](http://mrjakeparker.com/inktober)). I had seen other artists participate in Inktober before, but I had never found the motivation to stick to it. Well I decided that this would be a great year to join so I went for it.
+
+**What I Did and Why**
+For my own challenge, I decided that I'd follow along with the Inktober prompts at the above link every day. In addition, I feel like even though people are super connected nowadays through social media I've lost touch with people I used to talk to all the time, so I wanted to somehow involve my facebook friends in this. I decided that each day I'd post my drawing along with a question for people answer in the comments. I'd then choose a commenter and mail the picture to them. Even if I would see that person in real life frequently, I decided mail was the best way to go because in today's digital age, meaningful snail mail is super exciting to receive. 
+
+**How It Went**
+At the beginning, I made sure to draw each day regardless of the other commitments I might've had. For example, there was one weekend where I went to go spectate the Big House 6 smash tournament and brought my drawing supplies with me to draw at the venue. It was tiring but it was good that I was drawing everywhere. However, as the month went on I started dropping some days since I was just too busy or tired to draw. Although it's unconventional to go back for days you missed, I chose to do so anyway for the extra drawing practice and because I wanted to be able to send more art out. It was tiring to do double duty some days, but those days were worth it because I dedicated extra time to drawing, which felt great. In terms of sticking to the prompt, I didn't. Towards the end I didn't feel like coming up with ideas for abstract concepts, but rather wanted to either draw Overwatch characters or aesthetic girls. Some people I follow on instagram were following this Inktober Witch prompt which seemed fun, so I ended up alternating between the main prompt, the witch prompt, and Overwatch. I'm glad I chose to switch subjects and draw what I wanted because that is me not giving into my perfectionist / 100% completion tendencies (something I'm still working on). 
+
+**What I Learned**
+First off I learned that I have no idea how to best advertise on facebook. I think there are certain times of day where posts get the most traffic, but I could not figure that out. Good thing I'm not in charge of any sort of marketing or advertising hahaaaa
+
+Anyway another thing I learned was that it's much easier to stick to a challenge when you involve other people. If you're just doing something by yourself, it's easy to lose the motivation to keep at it because you're not disappointing anyone if you stop. If other people are part of your project, you gain a sense of not wanting to let them down. I'm not saying you should be a people pleaser in your endeavors, but rather that it's benficial to utilize the desire to share your work with others, and that by keeping at it you get more chances to do so. 
+
+Finally, the most important thing I learned is that practicing every day (or close to it) makes a WORLD of a difference when you're trying to improve at something. Looking at my drawings, It's pretty clear that I got much more comfortable with inking and markers as the month went on. If you're dead serious about learning a new skill or improving on something, you have to commit to blocking out time to work at it every day. No excuses. For me my main learning goal was not to create a masterpiece every day, but rather to not be afraid of trying out new techniques, poses, and color combinations even if I was bad at them. Sure it was stressful trying something out, realizing it looked terrible, then trying really hard to fix it, but that's where the learning happened.
