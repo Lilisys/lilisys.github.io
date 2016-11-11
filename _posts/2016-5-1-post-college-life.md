@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I've Graduated! Time for Summer Goals
-category: Bravely
+category: Humbly
 tags:
 - reflection
 - planning
